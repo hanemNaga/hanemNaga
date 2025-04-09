@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently a  freelance frontend web developer<br>👯 I'm constantly learning and exploring new technologies to improve my skills.<br>🌱 I’m currently learning react framework<br>💬 Ask me about my experience with JavaScript, HTML, and CSS, or anything related to web development.<br>⚡ Fun fact  Coding gives me adrenaline rushes… especially when I forget to save before refreshing.
+🔭 I’m currently a  freelance frontend web developer.<br>👯 I'm constantly learning and exploring new technologies to improve my skills.<br>🌱 I’m currently learning react framework.<br>💬 Ask me about my experience with JavaScript, HTML, and CSS, or anything related to web development.<br>⚡ Fun fact  Coding gives me adrenaline rushes… especially when I forget to save before refreshing.
 
 
 ## 🌐 Socials:
